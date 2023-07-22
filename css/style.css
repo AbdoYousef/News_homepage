@@ -101,7 +101,7 @@ nav ul{
 
 .top-left{
     grid-area: tl;
-    background-image: url("/assets/images/image-web-3-desktop.jpg");
+    background-image: url("https://avatars.mds.yandex.net/get-images-cbir/2778069/a_uEw_4h2_9V7J2oFhpXiQ4066/ocr");
     background-size: cover; 
 }
 
@@ -291,7 +291,7 @@ nav ul{
     }
     
     .top-left{
-        background-image: url("/assets/images/image-web-3-mobile.jpg");
+        background-image: url("https://avatars.mds.yandex.net/get-images-cbir/4575215/lKJ-malbTqYl2H4otOlTkA4192/ocr");
     }
 
     .right hr{
